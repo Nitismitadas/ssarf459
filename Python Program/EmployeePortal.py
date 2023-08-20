@@ -6,7 +6,7 @@ class Employee:
 
 
 print("                 *")
-print("               *   *")
+print("               *     *")
 print("             *   *   *")
 print("           *   *   *   *")
 print("         *   *   *   *   *")
